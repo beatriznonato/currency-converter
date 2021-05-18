@@ -1,5 +1,14 @@
-# Aplicação
+# Currency Converter :currency_exchange:
 
-Criar um conversor de moedas onde o dólar seja convertido em real. Substituir a vírgula por ponto na hora da conversão.
+### Description
 
-``` .replace substitui o valor atual por um novo. Ex: nomeDaVariavel.replace(',','.');```
+Create a currency converter where the dollar is converted into reais. Replace the comma with a period at the time of conversion.
+
+## How to Run
+- Clone this repository
+- Open the project folder
+- Double-click on the index.html file, as soon afterwards you will be redirected to the browser with the application running.
+
+### License
+
+MIT © Beatriz Nonato :woman_technologist:
